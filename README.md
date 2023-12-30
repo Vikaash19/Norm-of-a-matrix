@@ -47,19 +47,13 @@ print("{:.2f}".format(b))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+![Norm 1 mat](https://github.com/Vikaash19/Norm-of-a-matrix/assets/148514589/e74641e5-571f-4bd5-844a-066514f33ec7)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+![Norm 2 mat](https://github.com/Vikaash19/Norm-of-a-matrix/assets/148514589/cde11ac2-9c36-4b4d-96e4-0a8072cebb98)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+![Norm inf mat](https://github.com/Vikaash19/Norm-of-a-matrix/assets/148514589/20f85a4c-c5ef-40b7-ba27-060a68afb457)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
